@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Caviar Dreams
+Author: Nymphont
+Url: http://www.fontsquirrel.com/fonts/caviar-dreams
+
+Font: Playfair Display
+Author: Claus Eggers Sørensen
+Url: http://www.fontsquirrel.com/fonts/playfair-display
